@@ -1,0 +1,43 @@
+.Header{
+	background-color: #666;
+    padding: 10px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+}
+.nav{
+	float: left;
+    width: 10%;
+    height: 300px;
+    background: #ccc;
+    padding: 20px;
+    font-size: 35px;
+    text-align: center;
+}
+.article{
+	float: left;
+    padding: 20px;
+    width: 70%;
+    background-color: #f1f1f1;
+    height: 300px;
+    font-size: 35px;
+}
+.ads{
+	float: left;
+	padding: 20px;
+	width: 10.999%;
+	height: 300px;
+	background: #ccc;
+	font-size: 35px;
+	text-align: center;
+
+}
+.footer{
+	float: left;
+	background-color: #777;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    width: 98.6%;
+    font-size: 35px;
+}
